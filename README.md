@@ -53,7 +53,7 @@ pyinstaller --noconfirm --windowed --icon "icons/pyinstaller_dualcrypt.ico" dual
 ---
 
 ## 👨‍💻 Developer
-- **Theerawat Petcharat (Knightnum)**
+- **Knightnum Limited**
 - Website: [https://knightnum.online](https://knightnum.online)
 
 ## 📸 Screenshots
